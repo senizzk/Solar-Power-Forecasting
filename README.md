@@ -8,7 +8,8 @@
 
 ## 👥 Gruppe: *Sunbeliavable Forecasts*
 
-- **Seniz Kurhan** (Aufgabe 5–6): Feature Engineering, Modelltraining, Best Features, Pipelines  
+- **Seniz Kurhan** (Aufgabe 5–6): Feature Engineering, Training verschiedener Machine Learning Modelle, Bewertung der Modellgüte, Erstellen von Prognosen auf zwei Testdatensätzen
+  
 - **\***  
 ---
 
